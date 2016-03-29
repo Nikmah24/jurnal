@@ -1,3 +1,1 @@
 # jurnal
-
-ini hanya mencoba
